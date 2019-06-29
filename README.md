@@ -4,10 +4,10 @@ The most offensive of react components
 
 [![Build Status](https://travis-ci.org/circa10a/react-foaas-card.svg?branch=master)](https://travis-ci.org/circa10a/react-foaas-card)
 ![npm](https://img.shields.io/npm/dm/react-foaas-card.svg)
-[![Dependencies status](https://img.shields.io/david/circa10a/react-foaas-card?style=flat-square)](https://david-dm.org/circa10a/react-foaas-card#info=dependencies)
+[![dependencies Status](https://david-dm.org/circa10a/react-foaas-card/status.svg)](https://david-dm.org/circa10a/react-foaas-card)
 [![Dev Dependencies status](https://img.shields.io/david/dev/circa10a/react-foaas-card.svg?style=flat-square)](https://david-dm.org/circa10a/react-foaas-card?type=dev)
 
-[![NPM](https://nodei.co/npm/react-foaas-cardpng?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/react-foaas-card)
+[![NPM](https://nodei.co/npm/react-foaas-card.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/react-foaas-card)
 
 [Demo](https://caleblemoine.dev/react-foaas-card/)
 
