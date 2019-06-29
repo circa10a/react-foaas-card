@@ -8,7 +8,7 @@
   },
   "scripts": {
     "build": "webpack",
-    "create-docs": "npm run docz:build && mv dist/* ./",
+    "create-docs": "npm run docz:build && mv ./.docz/dist/* ./docs",
     "docz:dev": "docz dev",
     "docz:build": "docz build",
     "lint": "eslint .",
