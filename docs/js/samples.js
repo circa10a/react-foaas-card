@@ -1,5 +1,5 @@
 import React from 'react';
-import FoaasCard from '../../index';
+import FoaasCard from '../../src/index';
 
 function Samples() {
   const stylesParent = {
