@@ -1,7 +1,7 @@
 import React from 'react';
 import FoaasCard from '../../index';
 
-function Samples(props) {
+function Samples() {
   const stylesParent = {
     padding: '.5rem',
     margin: '1 1 1 1',

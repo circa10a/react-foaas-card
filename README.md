@@ -1,5 +1,7 @@
 # react-foaas-card
 
+[![Build Status](https://travis-ci.org/circa10a/react-foaas-card.svg?branch=master)](https://travis-ci.org/circa10a/react-foaas-card)
+
 The most offensive of react components
 
 [DEMO](https://circa10a.github.io/react-foaas/card/samples)
