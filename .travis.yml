@@ -1,0 +1,16 @@
+sudo: false
+language: node_js
+node_js:
+  - lts/*
+install:
+  - npm install
+script:
+  - npm run lint
+  - npm test
+deploy:
+  skip_cleanup: true
+  on:
+      branch: master
+  provider: npm
+  email: CalebLemoine@gmail.com
+  api_key: $npmToken
