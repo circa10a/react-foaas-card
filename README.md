@@ -4,7 +4,7 @@
 
 The most offensive of react components
 
-[DEMO](https://circa10a.github.io/react-foaas/card/samples)
+[Demo](https://caleblemoine.dev/react-foaas-card/)
 
 ## Getting started
 

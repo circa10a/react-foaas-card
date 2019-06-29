@@ -1,4 +1,7 @@
-.eslintrc*
+.eslint*
 .babelrc
 webpack.config.js
 doczrc.js
+docs/
+documenation/
+.travis.yml
