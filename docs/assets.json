@@ -1,11 +1,11 @@
 {
   "vendors.js": "/react-foaas-card/static/js/vendors.403a7663.js",
-  "vendors.js.map": "/react-foaas-card/static/js/vendors.5255767133d8832cb346.js.map",
-  "app.js": "/react-foaas-card/static/js/app.5255767133d8832cb346.js",
-  "app.js.map": "/react-foaas-card/static/js/app.5255767133d8832cb346.js.map",
-  "documentation-samples.js": "/react-foaas-card/static/js/documentation-samples.2cc63e42.js",
-  "documentation-samples.js.map": "/react-foaas-card/static/js/documentation-samples.5255767133d8832cb346.js.map",
+  "vendors.js.map": "/react-foaas-card/static/js/vendors.ffb611bb70cd29eb092e.js.map",
+  "app.js": "/react-foaas-card/static/js/app.ffb611bb70cd29eb092e.js",
+  "app.js.map": "/react-foaas-card/static/js/app.ffb611bb70cd29eb092e.js.map",
+  "documentation-samples.js": "/react-foaas-card/static/js/documentation-samples.96ccdf6b.js",
+  "documentation-samples.js.map": "/react-foaas-card/static/js/documentation-samples.ffb611bb70cd29eb092e.js.map",
   "documentation-usage.js": "/react-foaas-card/static/js/documentation-usage.4311b1b6.js",
-  "documentation-usage.js.map": "/react-foaas-card/static/js/documentation-usage.5255767133d8832cb346.js.map",
+  "documentation-usage.js.map": "/react-foaas-card/static/js/documentation-usage.ffb611bb70cd29eb092e.js.map",
   "index.html": "/react-foaas-card/index.html"
 }
