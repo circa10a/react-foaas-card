@@ -28,7 +28,7 @@ function Samples() {
               middleFinger={randBool()}
               darkMode={randBool()}
               type={item}
-              from="Some asshole"
+              from="oxidized devs"
             />
           </div>
         ))
