@@ -2,12 +2,9 @@
 
 The most offensive of react components
 
-[![dependencies Status](https://david-dm.org/circa10a/react-foaas-card/status.svg)](https://david-dm.org/circa10a/react-foaas-card)
-[![Dev Dependencies status](https://img.shields.io/david/dev/circa10a/react-foaas-card.svg?style=flat-square)](https://david-dm.org/circa10a/react-foaas-card?type=dev)
-
 [![NPM](https://nodei.co/npm/react-foaas-card.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/react-foaas-card)
 
-[Demo](https://caleblemoine.dev/react-foaas-card/)
+[View sample cards here](https://caleblemoine.dev/react-foaas-card/)
 
 ## Getting started
 
